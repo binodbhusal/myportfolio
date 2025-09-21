@@ -60,14 +60,15 @@ const Landing = () => {
             </span>
           </p>
           <p className="mt-10 mb-7 text-xl text-center md:text-start">
-            Hello friends, I am full stack passionate developer with impressive IT credentials,
-            a keen eye for detail and a love for problem-solving. I am constantly striving to
-            improve my skills and embrace new technologies. When I am not coding, you can find me
-            hiking in the great outdoors or immersed in a good book.
-            I also spend time on transcendental
-            meditation to sustain my awareness and productivity.
+            Hello! I am  the Founder of CookGPT.io, a passionate Full Stack Developer, and
+            a dedicated Tech Educator with strong IT credentials. I love building
+            scalable AI systems solving complex problems,
+            and exploring new technologies to create impactful solutions.
+            When I am not coding or teaching, you will find me hiking,
+            immersed in a good book, or practicing transcendental
+            meditation to stay mindful and productive.
             <br />
-            Let&lsquo;s build something great together!
+            Let&lsquo;s build something amazing together!
           </p>
         </div>
         {/* Get in touch */}
